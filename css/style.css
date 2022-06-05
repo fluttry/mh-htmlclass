@@ -1,0 +1,16 @@
+.heading {
+    color:red; 
+    background-color: blue; 
+    text-align: center;
+}
+.text{
+    background-color: aqua;
+    color: blue;
+    width: 50%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+    background-color: blue;
+    color: red;
+}
