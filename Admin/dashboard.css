@@ -3,3 +3,7 @@
 body{
     background-color: white;
 }
+
+.h-all {
+    min-height: 95vh;
+}
